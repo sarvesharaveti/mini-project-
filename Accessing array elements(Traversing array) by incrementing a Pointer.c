@@ -3,6 +3,7 @@
 const int MAX = 3;  // Global declaration
 int main()
 {
+	printf("RA2211042010041")
 	printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
 	int var[] = {100, 200, 300};
     int i, *ptr;
