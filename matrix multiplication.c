@@ -1,6 +1,8 @@
 #include<stdio.h>    
 #include<stdlib.h>  
-int main(){  
+int main()
+{
+    printf(RA2211042010041)\n
 int a[10][10],b[10][10],mul[10][10],r,c,i,j,k;    
 system("cls");  
 printf("enter the number of row=");    
