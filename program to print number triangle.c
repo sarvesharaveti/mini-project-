@@ -1,6 +1,8 @@
 #include<stdio.h>    
 #include<stdlib.h>  
-int main(){  
+int main()
+{
+  printf(RA2211042010041)\n
   int i,j,k,l,n;    
 system("cls");  
 printf("enter the range=");    
