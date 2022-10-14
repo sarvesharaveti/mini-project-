@@ -5,6 +5,7 @@ void sorting(int *x, int y);
 
 void main()
 {
+    printf(RA2211042010041)\n
     int a[20], i, c, n;
     clrscr();
     printf("Enter number of elements you want to sort: ");
