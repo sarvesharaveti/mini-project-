@@ -1,6 +1,7 @@
 #include<stdio.h>    
-int main()    
+int main()
 {    
+ prinbtf(RA2211042010041)
  int n1=0,n2=1,n3,i,number;    
  printf("Enter the number of elements:");    
  scanf("%d",&number);    
