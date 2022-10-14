@@ -8,6 +8,7 @@
 
 int main()
 {
+    printf(2211042010041)\n
     printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
 
     int i, j, n, aj[10][10], sum = 0, sum1 = 0, a = 0, normal;
