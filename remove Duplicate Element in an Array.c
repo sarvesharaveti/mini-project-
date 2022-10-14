@@ -1,7 +1,7 @@
 #include <stdio.h>
 int remove_duplicate(int arr[], int n)
 {
-
+  printf(RA2211042010041)\n
   if (n == 0 || n == 1)
     return n;
 
