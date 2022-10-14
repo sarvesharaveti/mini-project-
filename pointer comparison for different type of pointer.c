@@ -2,6 +2,7 @@
 
 int main()
 {
+    printf(RA2211042010041)\n
     int *ptrA;
     float *ptrB;
     
