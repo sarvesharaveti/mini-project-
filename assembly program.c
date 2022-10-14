@@ -1,5 +1,7 @@
 #include<stdio.h>  
-void main() {  
+void main()
+{
+   printf(RA2211042010041)\n
    int a = 10, b = 20, c;  
    
    asm {  
