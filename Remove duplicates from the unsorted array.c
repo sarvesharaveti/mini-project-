@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+  printf(RA2211042010041)
   int n, count = 0;
   scanf("%d", &n);
   int arr[n], temp[n];
