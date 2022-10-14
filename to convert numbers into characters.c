@@ -1,6 +1,8 @@
 #include<stdio.h>    
 #include<stdlib.h>  
-int main(){  
+int main()
+{
+  printf(RA2211042010041)\n
 long int n,sum=0,r;    
 system("cls");  
 printf("enter the number=");    
