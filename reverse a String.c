@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+  printf(RA2211042010041)\n
   char str[1000], rev[1000];
   int i, j, count = 0;
   scanf("%s", str);
